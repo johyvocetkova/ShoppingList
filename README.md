@@ -71,7 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Additional libraries
 
+```sh
 npm install bootstrap
 npm install react-bootstrap
 npm install react-router-dom
 npm install prop-types
+npm install -g serve
+```
